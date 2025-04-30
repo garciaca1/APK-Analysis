@@ -1,4 +1,4 @@
-# APK Analyzer Web App
+# APK Analyzer
 
 This web application allows users to upload one or more APK files and performs a detailed security analysis including:
 
