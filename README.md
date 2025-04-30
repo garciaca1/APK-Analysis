@@ -1,4 +1,4 @@
-# APK Analyzer
+# APK Analysis tool
 
 This web application allows users to upload one or more APK files and performs a detailed security analysis including:
 
@@ -36,7 +36,7 @@ python app.py
 
 Visit [http://localhost:5000](http://localhost:5000) in your browser.
 
-### Customize
+### Customise
 
 - `UPLOAD_FOLDER` and `ANALYSIS_FOLDER` in `app.py` control file storage paths.
 - Logging output is written to `app.log`.
@@ -44,7 +44,7 @@ Visit [http://localhost:5000](http://localhost:5000) in your browser.
 
 ## 📁 Output Files
 
-Each APK analyzed generates:
+Each APK analysed generates:
 - CSV files with structured reports
 - ZIP archive of all analysis results
 - A summary heatmap shown in the web interface
