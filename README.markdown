@@ -25,10 +25,9 @@ This web application automates security analysis of Android Package (APK) files,
 
 1. **Clone the Repository** (or download the code):
    ```bash
-   git clone [placeholder GitHub URL]
+   git clone https://github.com/garciaca1/APK-Analysis/
    cd apk-analysis-tool
    ```
-   Replace `[placeholder GitHub URL]` with the repository URL or unzip the downloaded code.
 
 2. **Install Java**:
    - Download JDK 24 from https://www.oracle.com/java/technologies/downloads/ or https://adoptium.net/.
@@ -105,4 +104,4 @@ This web application automates security analysis of Android Package (APK) files,
 
 ## License
 
-For educational and research use only. Contact [your email] for inquiries.
+For educational and research use only. Contact garciaca1@roehampton.ac.uk for inquiries.
